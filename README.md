@@ -1,1 +1,1 @@
-This contants web footer with it social media links
+This contains web footer with it social media links
